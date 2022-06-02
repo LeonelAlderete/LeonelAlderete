@@ -13,7 +13,7 @@
 - 🔭 En este momento curso la Tecnicatura en Desarrollo de Software en la Universidad Provincial de Ezeiza
 - 🌱 Actualmente estoy aprendiendo React Native
 - 💬 Puedes preguntarme sobre **React JS** **React Native** **JavaScript**
-- 📫 Puedes contactarme por email: leonel.alderete1994@gmail.com
+- 📫 Puedes contactarme por [Linkedin](https://www.linkedin.com/in/sa%C3%BAl-leonel-alderete-93b740224/)
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
